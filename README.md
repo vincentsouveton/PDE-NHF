@@ -1,6 +1,6 @@
 # PDE-NHF
 
-Official implementation of PDE-NHF, a Hamiltonian-based Normalizing Flows models for integrating Vlasov-Poisson equations.
+Official implementation of PDE-NHF, a Hamiltonian-based Normalizing Flows model for integrating Vlasov-Poisson equations.
 Right now, the code supports 1D experiments.
 
 
